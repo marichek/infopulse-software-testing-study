@@ -1,5 +1,8 @@
 #summary Requirements for ListBoxer
 
+additional info can be found 
+https://drive.google.com/folderview?id=0B54tEGOwoT94SVBYOW9pdnBjT0k&usp=sharing
+
 = Introduction =
 
 Программа ListBoxer версии 1.98 предназначена для создания алфавитно-цифровых универсальных списков. ListBoxer позволяет открывать ранее созданные списки и сохранять модифицированные, в виде файлов на диске. 
