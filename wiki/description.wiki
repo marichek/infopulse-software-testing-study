@@ -1,5 +1,8 @@
 #summary описание программы ListBoxer
 
+additional info can be found 
+https://drive.google.com/folderview?id=0B54tEGOwoT94SVBYOW9pdnBjT0k&usp=sharing
+
 
 = Описание к программе ListBoxer =
 
