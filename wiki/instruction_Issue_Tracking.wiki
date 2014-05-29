@@ -1,0 +1,24 @@
+#summary Tasks, Bug workflow
+
+= Работа с задачами и баг репортами =
+
+описание процесса работы в Task management системе code.google.com  в рамках проекта 	*infopulse-software-testing-study*.
+
+
+= Задачи =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
+
+
+= Баг репорты =
+
+ Статусы:
+
+
+ Коментарии:
+ 
+
+ Прикрепленные файлы:
