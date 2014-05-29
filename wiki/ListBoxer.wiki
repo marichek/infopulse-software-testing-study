@@ -7,10 +7,6 @@
 
 = Функциональные требования =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
 
 1.	Требования к системе
 
@@ -150,4 +146,3 @@ checkboxes (объединенные в группу “Symbols”, предна
 	- Close Alt+ F4
 
 	- контекстное меню F1 
-
