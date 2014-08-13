@@ -54,6 +54,7 @@ https://drive.google.com/folderview?id=0B54tEGOwoT94SVBYOW9pdnBjT0k&usp=sharing
 
 		- активация режима сheckbox “ Numeric ”
                 - длинна строки (1-4)
+                - ввод специальных символов в этом режиме не допускается
 
 *смешанный:*
 
@@ -62,6 +63,7 @@ https://drive.google.com/folderview?id=0B54tEGOwoT94SVBYOW9pdnBjT0k&usp=sharing
 
 		- активация режима сheckbox “Numeric” и “Alphabetic” одновременно
                 - длинна строки (1-8)
+                - ввод специальных символов в этом режиме не допускается
 
 *2.3.  Элементы управления:*
 
