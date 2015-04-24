@@ -1,0 +1,1 @@
+project for practice lessons of Software testing course at Infopulse training centre
